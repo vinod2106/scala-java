@@ -14,3 +14,5 @@ target/
 *.iml
 .idea
 *~
+/.cache-main
+/README.md
