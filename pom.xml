@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>it.seralf.development</groupId>
-	<artifactId>maven-scala-java</artifactId>
+	<groupId>com.shavinod</groupId>
+	<artifactId>scala-java</artifactId>
 	<version>0.0.2</version>
-	<name>maven-scala-java</name>
+	<name>scala-java</name>
 
 	<url>https://github.com/seralf/maven-scala-java</url>
 	<description>A playground project for Scala/Java development using maven</description>
@@ -16,14 +16,6 @@
 			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
 		</license>
 	</licenses>
-
-	<developers>
-		<developer>
-			<name>Alfredo Serafini</name>
-			<email>seralf@gmail.com</email>
-			<url>http://seralf.it/code</url>
-		</developer>
-	</developers>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
